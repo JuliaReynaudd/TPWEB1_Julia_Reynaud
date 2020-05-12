@@ -1,1 +1,26 @@
-
+@charset "utf-8";
+/* CSS Document */
+#bandeausaison4 {
+	line-height: 1.5;
+    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+    color: white;
+    text-shadow: 0 0 1px transparent, 0 1px 2px rgba(0,0,0,.8);
+    font-weight: 700;
+	
+}
+.bandeautext {
+	margin-left: 170px;
+	padding-top: 80px;
+	font-size: 19px;
+    font-weight: 400;
+}
+h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.container-verybig{
+    background-image: url(https://media.discordapp.net/attachments/709643068499820545/709653278970871828/combat.jpg);
+    background-repeat: no-repeat;
+    height: 3000px;
+    max-width: 3000px;
+}
