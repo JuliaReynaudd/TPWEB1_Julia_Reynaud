@@ -1,6 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 #bandeausaison4 {
+	 background-image: url(https://media.discordapp.net/attachments/709643068499820545/709653278970871828/combat.jpg);
 	line-height: 1.5;
     font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
     color: white;
@@ -25,7 +26,6 @@ p {
 	
 }
 .container-verybig{
-    background-image: url(https://media.discordapp.net/attachments/709643068499820545/709653278970871828/combat.jpg);
     background-repeat: no-repeat;
     max-width: 3000px;
 }
